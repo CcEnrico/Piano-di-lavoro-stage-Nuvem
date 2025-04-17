@@ -1,0 +1,99 @@
+Piano di Lavoro Stage
+Scopo dello stage
+Lo scopo del progetto di stage è la realizzazione di un'applicazione web per il calcolo dinamico del costo dei prodotti in base alle componenti selezionate dall’utente. Ogni prodotto potrà essere personalizzato con diverse tipologie di componentistica specializzata, e il sistema calcolerà il costo finale sulla base di tali scelte, con logiche non banali.
+
+Per raggiungere questo obiettivo, lo studente sarà coinvolto nello sviluppo completo del sistema, comprendente:
+
+Front-end realizzato con MatBlazor;
+
+Back-end sviluppato con .NET / C#;
+
+Persistenza dei dati tramite MongoDB;
+
+Osservabilità attraverso .NET Aspire Telemetry.
+
+In aggiunta, lo stage ha anche uno scopo formativo e professionale: lo studente verrà inserito all’interno di un team di sviluppo già consolidato, dove potrà apprendere le dinamiche di lavoro reali, le best practice adottate e i principi dell’ingegneria del software applicata in un contesto aziendale strutturato.
+
+Nonostante lo stage copra solo una parte della durata complessiva del progetto, sarà sufficiente per offrire un’immersione significativa nel flusso di lavoro e nelle metodologie utilizzate dal team.
+
+Interazione tra studente e tutor aziendale
+L’interazione con il tutor aziendale e con il resto del team avverrà settimanalmente attraverso incontri ricorrenti come:
+
+Daily Scrum,
+
+Sprint Planning,
+
+Sprint Review,
+
+seguendo l’approccio Agile adottato dall’azienda.
+
+La comunicazione avverrà principalmente su Microsoft Teams, mentre lo sviluppo sarà svolto da remoto. Sono inoltre previste alcune occasioni di incontro in presenza con il cliente per confrontarsi direttamente sui requisiti e sulle funzionalità del prodotto.
+
+Prodotto atteso
+Il prodotto atteso è un applicativo web che consenta:
+
+La visualizzazione di un catalogo di prodotti;
+
+La selezione di un prodotto da parte dell’utente;
+
+La personalizzazione dinamica del prodotto tramite scelta delle componenti disponibili;
+
+Il calcolo automatico del costo finale in base alla configurazione selezionata.
+
+Il sistema dovrà garantire un’interfaccia moderna, una UX fluida e una logica di calcolo robusta, performante e scalabile.
+
+Contenuti formativi previsti
+Durante il progetto di stage, lo studente avrà l’opportunità di approfondire le seguenti tecnologie e competenze:
+
+MatBlazor: UI library per Blazor basata su Material Design, consente la creazione di interfacce moderne usando solo C#;
+
+.NET Aspire Telemetry: strumento per l’osservabilità di app .NET in ambienti cloud-native e microservizi;
+
+.NET / C#: linguaggio e framework per lo sviluppo multipiattaforma (web, API, desktop);
+
+MongoDB: database NoSQL adatto a dati dinamici, flessibile e scalabile;
+
+Testing dinamico front-end con MatBlazor e approccio TDD;
+
+Approccio Agile, gestione delle attività in sprint, cerimonie Scrum;
+
+Best practice di ingegneria del software, design del codice, documentazione tecnica.
+
+Pianificazione del lavoro
+La pianificazione delle attività seguirà la metodologia Agile, con ridefinizione settimanale degli obiettivi e dei task da svolgere. Nelle prime settimane, lo studente sarà coinvolto in:
+
+Onboarding tecnico e funzionale;
+
+Studio dell’architettura esistente;
+
+Sperimentazione delle tecnologie adottate.
+
+Successivamente, parteciperà attivamente allo sviluppo front-end e back-end, all’implementazione di test automatici e alla realizzazione delle funzionalità core dell’applicativo.
+
+La pianificazione è flessibile e le attività non sono eseguite in modo sequenziale: lo sviluppo, il testing, l’interazione col team e la documentazione verranno svolti in parallelo durante l’intera durata dello stage.
+
+Ripartizione ore
+
+Ore	Attività
+60	Formazione iniziale, onboarding e studio tecnologie (MatBlazor, .NET, MongoDB, Aspire Telemetry)
+150	Attività di sviluppo (front-end, back-end, integrazione, test automatici)
+70	Partecipazione alle attività del team (sprint, daily meeting, code review, incontri col cliente, task Agile)
+30	Documentazione tecnica, demo finale e attività di chiusura dello stage
+Totale ore: 310
+
+Le attività saranno svolte in parallelo e non seguono un ordine cronologico rigido, per adattarsi all’organizzazione Agile del team.
+
+Obiettivi
+Sezione in fase di definizione.
+
+
+
+---------------------------------------
+
+https://www.matblazor.com/
+https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/telemetry
+.net c#
+boolean school c#
+
+Domande:
+Come ruolo tuo cosa metto?
