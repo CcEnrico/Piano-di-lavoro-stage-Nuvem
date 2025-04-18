@@ -2,36 +2,37 @@
 %	DESCRIPTION OF THE PRODUCTS THAT ARE BEING EXPECTED FROM THE STAGE
 %----------------------------------------------------------------------------------------
 \section*{Prodotti attesi}
-Lo studente dovrà realizzare un applicativo web che consenta:
+
+Lo studente dovrà realizzare un'applicazione web rivolta al cliente \textbf{Starline Services S.p.A.}, una sottodivisione specializzata nella produzione e configurazione di valvole industriali. L'applicativo avrà lo scopo di semplificare e automatizzare la configurazione dei \textbf{pannelli della linea Automation}, destinati al controllo e all’azionamento di valvole, sostituendo l'attuale procedura manuale basata su fogli Excel complessi e soggetti a errori.
+
+I prodotti da configurare fanno riferimento alla sezione \textbf{Products} del sito ufficiale dell’azienda, accessibile al link: \url{https://starline.it/products/}.
+
+Il sistema dovrà permettere:
+
 \begin{itemize}
-    \item La visualizzazione di un catalogo di prodotti;
-    \item La selezione di un prodotto da parte dell’utente;
-    \item La personalizzazione dinamica del prodotto tramite la scelta delle componenti disponibili;
-    \item Il calcolo automatico del costo finale in base alla configurazione selezionata.
+    \item La visualizzazione di una lista di pannelli e dei relativi componenti disponibili;
+    \item La selezione e configurazione personalizzata di un pannello da parte dell’utente;
+    \item L'applicazione di vincoli dinamici sui componenti selezionabili, in base al tipo di cliente e all’ambiente di installazione previsto;
+    \item Il calcolo automatico e validato del costo finale della configurazione;
+    \item La sostituzione completa dell’attuale processo manuale con uno strumento digitale efficiente, sicuro e distribuito in ambiente \textbf{on-premise}.
 \end{itemize}
 
-Il sistema dovrà garantire un’interfaccia moderna, una user experience fluida e intuitiva, oltre a una logica di calcolo robusta, performante e scalabile.
+L’applicazione dovrà garantire un’interfaccia moderna e responsive, una user experience fluida e una logica di configurazione solida, validata e facilmente estendibile.
 
 \bigskip
 
 Inoltre, lo studente dovrà produrre una relazione scritta che illustri i seguenti punti:
+
 \begin{enumerate}
-    \item Analisi dei requisiti \\
-    Descrizione dettagliata delle funzionalità richieste, delle tecnologie scelte e del target dell’applicativo.
+    \item \textbf{Analisi dei requisiti} \\
+    Descrizione dettagliata delle funzionalità richieste, dei vincoli progettuali e delle tecnologie scelte.
 
-    \item Architettura del sistema \\
-    Descrizione dell’architettura software, suddivisione in componenti/moduli, flussi di dati e scelta del modello di sviluppo.
+    \item \textbf{Architettura del sistema} \\
+    Descrizione dell’architettura software, suddivisione in moduli, flussi di dati e infrastruttura di distribuzione.
 
-    \item Implementazione \\
-    Dettagli sull’implementazione dell’interfaccia utente, della logica di business e del sistema di calcolo.
+    \item \textbf{Implementazione} \\
+    Dettagli sull’implementazione dell’interfaccia utente in MudBlazor, della logica di business in ASP.NET Core e del sistema di persistenza in MongoDB.
 
-    \item Test e validazione \\
-    Strategie di test adottate, risultati ottenuti e considerazioni sull’affidabilità e sulla scalabilità del sistema.
+    \item \textbf{Verifica delle formule di calcolo} \\
+    Validazione dei risultati numerici generati, in particolare delle formule fisiche coinvolte nella configurazione tecnica dei pannelli.
 \end{enumerate}
-
-% Nel caso in cui, in seguito all'analisi e allo sviluppo del progetto, lo studente abbia ancora tempo a disposizione, è auspicabile l’estensione del sistema con funzionalità aggiuntive, come ad esempio:
-% \begin{itemize}
-%     \item Gestione utenti con autenticazione;
-%     \item Salvataggio e condivisione delle configurazioni personalizzate;
-%     \item Integrazione con sistemi di pagamento o e-commerce.
-% \end{itemize}

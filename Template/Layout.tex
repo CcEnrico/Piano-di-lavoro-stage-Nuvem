@@ -28,12 +28,12 @@
 \usepackage[
 a4paper,
 top=2.5cm,
-bottom=2.5cm,
+bottom=3.5cm,
 left=1.5cm,
 right=1.5cm,
 head=30pt,
 textheight=8in,
-footskip=10pt
+footskip=30pt
 ]{geometry}
 
 \usepackage[italian]{isodate}
@@ -84,7 +84,7 @@ footskip=10pt
 \newcommand{\stileAziendale}{
     % Header
     \lhead{
-        \textline[t]{\includegraphics[width=1cm, keepaspectratio=true]{img/logo_azienda.png}}
+        \textline[t]{\includegraphics[width=1cm, keepaspectratio=true]{img/logo_nuvem1.png}}
         {\textbf{\ragioneSocAzienda}}
         {\sitoAzienda}
     }
@@ -118,12 +118,12 @@ footskip=10pt
 
 % Header delle pagine UNIPD style, commentarle se si intende usare lo stile aziendale
 
-\stileUNIPD
+% \stileUNIPD
 
 % Header delle pagine stile aziendale, usaree, dopo aver chiesto il consenso all'azienda
 % per l'uso del logo e dei dati personali. Commentarle se si intende usare l'UNIPD style
 
-%\stileAziendale
+\stileAziendale
 
 % Line under the heading
 \renewcommand{\headrulewidth}{0.4pt}  
