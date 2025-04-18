@@ -2,7 +2,7 @@
 
 Questa repository contiene il Piano di Lavoro per il mio tirocinio curricolare presso **Nuvem Srl**, redatto utilizzando il [Template Piano di Lavoro Stage](https://github.com/FIUP/Template-piano-di-lavoro-stage) sviluppato per il corso di laurea in Informatica dell'Università di Padova.
 
-📄 **[Scarica il PDF del Piano di Lavoro](./PianoDiLavoro_ECC_Nuvem.pdf)**
+📄 **[Scarica il PDF del Piano di Lavoro](./PianoDiLavoro.pdf)**
 
 ---
 
